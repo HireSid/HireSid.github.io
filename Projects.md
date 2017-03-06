@@ -38,7 +38,7 @@ This is an OS process scheduler I wrote as part of a school project in C. This p
 
 This project is intended to simulate a multi-level feedback queue time-quantum process scheduler that is part of any modern pre-emptive multi-tasking operating system.
 
-This code is well designed and documented. I am showcasing this code even though it is 5+ years old, because I specifically remember Abhi and Doug mentioning that there was some part of the stack written in C/C++.
+This code is well designed and documented. I am showcasing this code even though it is 5+ years old.
 
 
 ### Gravity Simulator - C++ + OpenGL + MFC (GitHub) (Video)
